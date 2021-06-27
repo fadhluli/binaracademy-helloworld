@@ -1,2 +1,5 @@
 # binaracademy-helloworld
-Fitur mengikuti dengan yang ada di pdf
+
+Challenge chapter5
+-------------------------
+- Fitur mengikuti dengan yang ada di pdf
